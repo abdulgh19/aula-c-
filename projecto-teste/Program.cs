@@ -8,6 +8,7 @@ namespace projecto_teste
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Primeira altercacao!");
+            Console.WriteLine("Segunda altercacao!");
         }
     }
 }
